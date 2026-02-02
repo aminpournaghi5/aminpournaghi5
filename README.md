@@ -27,6 +27,7 @@ I’m passionate about merging **technology** and **sports science**, creating i
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white)
 
@@ -83,7 +84,8 @@ Corporate website for rope-access & industrial services.
 ## 🎒 Courses & Certifications  
 - Front-End Development with React — Quera College  
 - Web Design & Development (HTML/CSS/JS) — Quera College  
-- Fundamentals of Python Programming (Task-Oriented) — Quera College  
+- Fundamentals of Python Programming (Task-Oriented) — Quera College
+- Task-Oriented Course In SQL - Quera College 
 
 ---
 
