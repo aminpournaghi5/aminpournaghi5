@@ -57,7 +57,7 @@ Designed and developed a full-stack HealthTech platform for workout planning, tr
 - **Infrastructure & Deployment**  
   Containerized services using **Docker & Docker Swarm**, deployed on Linux servers with **Nginx reverse proxy and SSL**.
 
-<p align="center"> <img src="a-five.ir.jpg" width="50%" height:"auto" /> </p>
+<p align="center"> <img src="a-five.ir.jpg" width="90%" height:"auto" /> </p>
 
 ---
 
@@ -69,7 +69,7 @@ Developed a full-stack **e-commerce platform** for handcrafted wooden boomerangs
 - Built **OTP-based mobile authentication** for fast user onboarding.
 - Created a **mobile-first responsive UI** optimized for usability.
 
-<p align="center"> <img src="vagard.ir.jpg" width="50%" height:"auto" /> </p>
+<p align="center"> <img src="vagard.ir.jpg" width="90%" height:"auto" /> </p>
 
 ---
 
@@ -79,7 +79,7 @@ Developed a full-stack **e-commerce platform** for handcrafted wooden boomerangs
 **Highlights**  
 Designed and launched a **corporate website** using Next.js and MUI with a modern, fully responsive multi page UI/UX. Produced all article and page content, improved SEO using SSR/SSG and Google Search Console, and deployed the site with Docker to enhance visibility, branding, and client engagement. 
 
-<p align="center"> <img src="owjnamakaran.ir.jpg" width="50%" height:"auto" /> </p>
+<p align="center"> <img src="owjnamakaran.ir.jpg" width="90%" height:"auto" /> </p>
 
 ---
 
