@@ -44,7 +44,6 @@ As a freelance developer, I have delivered end-to-end projects covering UI/UX, f
 ![Hybrid Search](https://img.shields.io/badge/Hybrid_Search-6B46C1?style=flat)
 ![Embeddings](https://img.shields.io/badge/Embeddings-412991?style=flat\&logo=openai\&logoColor=white)
 ![Fuzzy Search](https://img.shields.io/badge/Fuzzy_Search-FF6F00?style=flat)
-![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=flat\&logo=openai\&logoColor=white)
 
 ### DevOps & Tools
 
@@ -72,7 +71,6 @@ Designed and developed a full-stack fitness platform for athletes and coaches us
 * Developed OTP registration and login, JWT authentication, backend RBAC middleware, and secure coach-athlete access workflows.
 * Built workout-plan creation and delivery, session tracking for sets, reps, weights, duration, rest intervals, pause/resume states, timers, and exercise history.
 * Developed analytics for training volume, lifted weight, duration, muscle-group engagement, monthly performance, and Jalali calendar reporting.
-* Integrated Zarinpal payments and deployed production services on Ubuntu using Docker, Docker Swarm, Nginx reverse proxy, and SSL/HTTPS.
 
 ---
 
@@ -113,7 +111,6 @@ Designed and launched a modern, fully responsive multi-page corporate website fo
 
 * Designed the UI/UX for mobile, tablet, and desktop.
 * Created page and article content using AI-assisted workflows.
-* Improved search visibility using Next.js rendering capabilities and SEO best practices.
 * Deployed the website using Docker.
 
 ---
@@ -162,4 +159,3 @@ GPA: 18.35/20 | Rank: 5th of 120
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/amin-pournaghi)
 * ✉️ [Email](mailto:aminpournaghii5@gmail.com)
-* 🌐 [GitHub](https://github.com/aminpournaghi5)
