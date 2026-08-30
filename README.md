@@ -8,9 +8,7 @@ I build production-ready web applications with a strong focus on FitnessTech and
 
 ## About Me
 
-Full-Stack JavaScript Developer with 2+ years of experience building and deploying production web applications across fitness, e-commerce, corporate, academic, and clinical domains. I specialize in React.js and Next.js and have production backend experience with Node.js, Express.js, MongoDB, REST API design, authentication, search, payments, and data modeling.
-
-As a freelance developer, I have delivered end-to-end projects covering UI/UX, frontend and backend development, deployment, and production maintenance. 
+Full-Stack JavaScript Developer with 2+ years of experience building and deploying production web applications across fitness, e-commerce, corporate, academic, and clinical domains. Strong expertise in React.js and Next.js, with production backend experience in Node.js, Express.js, MongoDB, REST API design, authentication, search, payments, and data modeling. Delivered end-to-end client projects as a freelance developer, covering UI/UX, frontend and backend development, deployment, and production maintenance.
 
 ---
 
