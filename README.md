@@ -57,7 +57,7 @@ Full-Stack JavaScript Developer with 2+ years of experience building and deployi
 
 ## Featured Projects
 
-### [A-FIVE - Fitness Platform](https://a-five.ir) | Jan 2024 - Present
+### [ACTIN - Fitness Platform](https://actin.app) | Jan 2024 - Present
 
 Designed and developed a full-stack fitness platform for athletes and coaches using React.js, TypeScript, Express.js, MongoDB, Redux Toolkit, and MUI.
 
