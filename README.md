@@ -97,9 +97,7 @@ Designed and launched a modern, fully responsive multi-page corporate website fo
 
 **Highlights**
 
-- Designed the UI/UX for mobile, tablet, and desktop.
-- Created page and article content using AI-assisted workflows.
-- Deployed the website using Docker.
+- Designed and launched a modern, fully responsive multi-page corporate website using Next.js and MUI and deployed the website with Docker.
 
 ---
 
