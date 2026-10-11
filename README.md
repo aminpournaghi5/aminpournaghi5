@@ -1,14 +1,10 @@
 # Hi there, I'm Amin Pournaghi 👋
 
-### Full-Stack JavaScript Developer | React.js, Next.js, Node.js
-
-I build production-ready web applications with a strong focus on FitnessTech and HealthTech.
-
----
+### JavaScript Developer | React.js, Next.js, Node.js
 
 ## About Me
 
-Full-Stack JavaScript Developer with 2+ years of experience building and deploying production web applications across fitness, e-commerce, corporate, academic, and clinical domains. Strong expertise in React.js and Next.js, with production backend experience in Node.js, Express.js, MongoDB, REST API design, authentication, search, payments, and data modeling. Delivered end-to-end client projects as a freelance developer, covering UI/UX, frontend and backend development, deployment, and production maintenance.
+JavaScript Developer with 2+ years of experience building, deploying, and maintaining production web applications, including health and fitness platforms, e-commerce websites, and multilingual content management systems. Specializing in React.js and Next.js, with hands-on backend development experience using Node.js and Express.js.
 
 ---
 
@@ -57,32 +53,28 @@ Full-Stack JavaScript Developer with 2+ years of experience building and deployi
 
 ## Featured Projects
 
-### [ACTIN - Fitness Platform](https://actin.app) | Jan 2024 - Present
+### [ACTIN - Health and Fitness Platform](https://actin.app) | Jan 2024 - Present
 
-Designed and developed a full-stack fitness platform for athletes and coaches using React.js, TypeScript, Express.js, MongoDB, Redux Toolkit, and MUI.
+Developed a full-stack health and fitness platform for athletes and coaches using TypeScript, Express.js, MongoDB, Redux Toolkit, and MUI, and migrated the frontend from React.js to Next.js. Collaborated on page and component design, color palettes, typography, SVG icons, and graphic assets.
 
 **Highlights**
 
-* Built and normalized a bilingual database of 4,600+ Persian and English exercises using Python, Notion, and AI-assisted workflows.
-* Engineered a self-hosted MongoDB Search solution using mongot, including fuzzy, autocomplete, phrase, and weighted text search; advanced filters; indexing; and pagination.
-* Implemented 3,072-dimensional vector search and custom hybrid re-ranking for exercise recommendations.
-* Developed OTP registration and login, JWT authentication, backend RBAC middleware, and secure coach-athlete access workflows.
-* Built workout-plan creation and delivery, session tracking for sets, reps, weights, duration, rest intervals, pause/resume states, timers, and exercise history.
-* Developed analytics for training volume, lifted weight, duration, muscle-group engagement, monthly performance, and Jalali calendar reporting.
+* Improved exercise discovery across 2,650+ exercises in Persian and English using self-hosted MongoDB Search (mongot), combining fuzzy search, autocomplete, body-region and equipment filters, and hybrid text and vector search for relevant results and recommendations.
+* Implemented OTP registration and login, JWT authentication, backend RBAC middleware, and secure coach-athlete request and access workflows.
+* Built workout planning, delivery, tracking, and analytics features serving 175 active coaches and athletes, with 200 workout plans created and 170 training hours logged. Supported set, rep, weight, and rest tracking with session timers, alongside training-volume and performance analytics, exercise history, Jalali calendar reporting, and coach access to athlete sessions.
+* Deployed production services on an Ubuntu VPS using Docker, Docker Swarm, and Nginx as a reverse proxy; configured domain DNS records and SSL/TLS certificates for secure HTTPS access.
 
 ---
 
-### [Arash Aryani - Multilingual Personal & Clinical Website](https://www.arasharyani.com) | Jul 2026 - Present
+### [Arash Aryani - Multilingual Personal & Clinical Website](https://www.arasharyani.com) | Jul 2026 - Aug 2026
 
-Developed a full-stack multilingual website in English, Persian, and German using Next.js, TypeScript, Express.js, MongoDB, and MUI.
+Developed a full-stack website in English, Persian, and German using Next.js, TypeScript, Express.js, MongoDB, and MUI, with dynamic RTL/LTR layouts and localized typography.
 
 **Highlights**
 
-* Built dynamic RTL/LTR layouts with localized typography and responsive image optimization using `next/image`.
-* Created a custom Next.js CMS/Admin Panel with username/password and JWT authentication.
-* Enabled management of multilingual page content, publications, categories, featured publications, images, and CV uploads.
-* Implemented On-Demand ISR using `revalidateTag()`, content-specific cache tags, and a secret-protected revalidation endpoint.
-* Designed custom REST APIs, MongoDB models, authentication middleware, and protected administrative workflows.
+* Built a custom Next.js CMS and admin panel with username/password login and JWT-based authentication to manage multilingual content, publications, categories, featured publications, and CV uploads.
+* Implemented on-demand ISR with revalidateTag(), content-specific cache tags, and a secret-protected revalidation endpoint triggered after backend content updates.
+* Designed custom REST APIs, MongoDB models, authentication middleware, and protected administrative workflows; optimized responsive images with next/image and deployed the frontend on Vercel.
 
 ---
 
@@ -92,12 +84,11 @@ Developed a full-stack e-commerce platform for handcrafted wooden boomerangs usi
 
 **Highlights**
 
-* Implemented single and variant products with color, material, dominant-hand, pricing, discounts, and sales options.
-* Built responsive product listing and detail pages for mobile, tablet, and desktop.
+* Implemented simple products and product variants with color, material, and handedness options, pricing and discounts, and responsive product listing and detail pages.
+* Built guest and authenticated shopping carts with persistent state, automatic cart merging after login, server-side price validation, and a multi-step checkout flow covering shipping and payment.
 * Developed guest and authenticated carts with persisted state and automatic cart merging after login.
-* Added backend price and stock validation and a multi-step cart, shipping, and payment checkout flow.
-* Integrated Zarinpal payments with transaction status tracking, order history, shipping data, and automatic cancellation after a 15-minute payment window.
-* Implemented mobile OTP authentication, JWT-based access, custom REST APIs, and responsive image optimization using `next/image`.
+* Integrated Zarinpal payments with transaction reference and status tracking, order history, shipping details, and automatic cancellation of unpaid orders after a 15-minute payment window.
+* Implemented mobile OTP authentication, JWT-based access, custom REST APIs, and responsive image optimization with next/image.
 
 ---
 
@@ -141,7 +132,7 @@ GPA: 18.35/20 | Rank: 5th of 120
 ## Honors & Awards
 
 * Gifted Talent Admission - Top M.Sc. Applicant, University of Guilan (2021)
-* Former Professional Football Player in the Persian Gulf Pro League
+* Former Professional Football Player in the Persian Gulf Pro League [Transfer Markt]([https://www.owjnamakaran.ir](https://www.transfermarkt.com/mohammad-amin-pournaghi/profil/spieler/553230)
 * Former Member of Iran National Football Team (U15)
 
 ---
